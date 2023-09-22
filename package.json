@@ -1,0 +1,16 @@
+{
+	"name": "nodesite-deliver",
+	"description": "Fetch npm packages from deliver.nodesite.eu",
+	"version": "0.1.0-1",
+	"main": "lib/index.js",
+	"author": "Prokop Schield",
+	"dependencies": {
+		"isomorphic-fetch": "^3.0.0"
+	},
+	"devDependencies": {
+		"@types/isomorphic-fetch": "^0.0.36",
+		"@types/node": ">=16"
+	},
+	"keywords": [],
+	"license": "GPL-3.0-or-later"
+}
